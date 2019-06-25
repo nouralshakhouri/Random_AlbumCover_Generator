@@ -10,14 +10,17 @@
    5. Displaying the generated album cover
 
 
-# Files and Libarary Required:
+# Requirements to run the project:
 
-DejaVuSans-Bold.ttf
-
-PIL
-
+Program
 Ipython Notebook
 
+Files
+DejaVuSans-Bold.ttf
+Random_AlbumCover_Generator.ipynb
+
+Libraries
+PIL
 IPython.display
 
 
