@@ -1,9 +1,21 @@
+# This is How to Randomly Generate Album Cover in 5 Easy Steps using Python and Jupyter Notebook
 # Random_AlbumCover_Generator
-This is How to Randomly Generate Album Cover in 5 Easy Steps using Python and Jupyter Notebook
+
+###  The purpose of this article is to demonstrate how to create randomly generated album cover using Python and Jupyter Notebook. The following is a summary of the steps used.
+
+   1. Defining the required libraries
+   2. Defining and learn how to use the display_cover function
+   3. Using Wikipedia to load a random page
+   4. Extracting the album and band titles from the page
+   5. Displaying the generated album cover
 
 
+# Files and Libarary Required:
 
-
+DejaVuSans-Bold.ttf
+PIL
+Ipython Notebook
+IPython.display
 
 
 # License
