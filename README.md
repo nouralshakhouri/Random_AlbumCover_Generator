@@ -13,8 +13,11 @@
 # Files and Libarary Required:
 
 DejaVuSans-Bold.ttf
+
 PIL
+
 Ipython Notebook
+
 IPython.display
 
 
