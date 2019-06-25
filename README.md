@@ -12,17 +12,22 @@
 
 # Requirements to run the project:
 
-###Program 
+### Program 
 
 Ipython Notebook
 
-###Files
+
+### Files
 
 DejaVuSans-Bold.ttf
+
 Random_AlbumCover_Generator.ipynb
 
-###Libraries
+
+### Libraries
+
 PIL
+
 IPython.display
 
 
